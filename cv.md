@@ -4,7 +4,7 @@
   * *Phone Number*: 8-906-057-42-28
 3. __Summary__:
 My purpose is to continue to studying and development of various technologies, and to learn more about JS, HTML, CS.
- * Personal quality
+Personal quality:
   * Ability to work in a team,
   * Good self-organization,
   * Ability to learn,
@@ -21,6 +21,8 @@ My purpose is to continue to studying and development of various technologies, a
  * I have basic knowledge about various algorithms and data structures, operation systems, as well as knowledge of discrete mathematics (automata, graphs).
 
 5. __Code examples__:
+* https://github.com/PinskayaNika/Lab7
+* https://github.com/PinskayaNika/Lab6
 
 6. __Experience__:
  * International Collegiate Programming Contest ICPC (2018, 2019)
