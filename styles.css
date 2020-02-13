@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: Helvetica, Arial, sanse-serif;
   font-size: 16px;
@@ -8,6 +13,13 @@ body {
   max-width: 1024px;
   margin: 20px auto;
 }
+
+h2 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weidth: 600;
+  line-weight: 1.25;
+}  
 
 a {
   text-decoration: none;
