@@ -10,15 +10,15 @@ body {
 }
 
 .container {
-  max-width: 1024px;
+  width: 1024px;
   margin: 20px auto;
 }
 
 h2 {
   margin-top: 24px;
   margin-bottom: 16px;
-  font-weidth: 600;
-  line-weight: 1.25;
+  font-weigth: 600;
+  line-height: 1.25;
 }  
 
 a {
