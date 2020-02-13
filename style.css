@@ -26,5 +26,8 @@ a {
   color: rgb(4, 0, 255);
 }
 
-
-
+.personal {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
